@@ -1,11 +1,10 @@
-# FoMo 3D -  Ready Player One
-## FoMo 3D - 区块链世界的头号玩家
+# FoMo 3D - 区块链世界的头号玩家
 
 这是 FoMo 3D 的合约分析库，FoMo 3D 除了大家表面所知道的是一个大型投资游戏外，他内部的代码中还隐藏了一个很大的彩蛋。根据主合约中的 `setOtherFomo` 函数可以看到，这个合约有 5 个地址可以进行合约权限操作。按照作者的理解这 5 个地址的私钥，就藏在这个游戏的彩蛋中。如果找到这几个私钥就可以 `一夜暴富`。这简直就是区块链中的`头号玩家`, 作者没有这种解谜的能力，但是可以为大家分析合约和提供代码中所包含的一些信息。在这场大型的区块链 头号玩家的游戏中，希望能看到有玩家可以解谜并获得私钥地址。这简直是酷到爆炸的一件事！！！
 
 ## 合约简介
-* 主线游戏 `https://36kr.com/p/5144415.html`
-* 隐藏游戏 `https://mp.weixin.qq.com/s/zDqjZqRWn3EzNFoTWwmB3Q`
+* 主线游戏 [https://36kr.com/p/5144415.html](https://36kr.com/p/5144415.html)
+* 隐藏游戏 [https://mp.weixin.qq.com/s/zDqjZqRWn3EzNFoTWwmB3Q](https://mp.weixin.qq.com/s/zDqjZqRWn3EzNFoTWwmB3Q)
 
 
 ## 地址集合
